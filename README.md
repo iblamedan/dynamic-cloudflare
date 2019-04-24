@@ -25,4 +25,6 @@ set x-auth-key=example6784authkey
 set x-auth-email=test@gmail.com
 set zone=2568example474972ffa
 
+change directory to point to the cloudflaredynamic folder
+
 Then setup a windows schedule to run updatedns.bat on the timeframe needed
